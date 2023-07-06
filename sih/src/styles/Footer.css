@@ -1,0 +1,110 @@
+/* Footer */
+.footer {
+    z-index: -1;
+    position: absolute;
+    /* bottom: 0%; */
+    height: 300px;
+    width: 100%;
+    /* align-items: flex-end; */
+    /* max-width: 1512px; */
+    background: #b6c7c6;
+  }
+  
+  .footer h3 {
+    position: absolute;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    position: absolute;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+  }
+  
+  .contact {
+    left: 50.66%;
+    right: 43.45%;
+    top: 17.33%;
+    bottom: 75.67%;
+  }
+  
+  .legal {
+    left: 69.71%;
+    right: 27.38%;
+    top: 17.33%;
+    bottom: 75.67%;
+  }
+  
+  .follow {
+    left: 86.11%;
+    right: 8.66%;
+    top: 17.33%;
+    bottom: 75.67%;
+  }
+  
+  .legalNotice {
+    left: 69.71%;
+    right: 23.61%;
+    top: 29.33%;
+    bottom: 63.67%;
+  }
+  
+  .privacy {
+    left: 69.71%;
+    right: 22.95%;
+    top: 39.67%;
+    bottom: 53.33%;
+  }
+  
+  .tNc {
+    left: 69.71%;
+    right: 18.52%;
+    top: 50%;
+    bottom: 43%;
+  }
+  
+  .twitter {
+    left: 86.11%;
+    right: 10.19%;
+    top: 29.33%;
+    bottom: 63.67%;
+  }
+  
+  .fb {
+    left: 86.11%;
+    right: 8.66%;
+    top: 39.67%;
+    bottom: 53.33%;
+  }
+  
+  .iG {
+    left: 86.11%;
+    right: 8.47%;
+    top: 50%;
+    bottom: 43%;
+  }
+  
+  .copyRight {
+    left: 8.47%;
+    right: 75.07%;
+    top: 82.67%;
+    bottom: 10.33%;
+  }
+  
+  .footer a:hover {
+    border-bottom: 2px solid purple;
+  }
+  
+  .footer a:hover {
+    border-bottom: 2px solid purple;
+  }

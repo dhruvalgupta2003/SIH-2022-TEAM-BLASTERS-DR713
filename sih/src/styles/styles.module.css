@@ -1,0 +1,17 @@
+.createDiv {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 2rem;
+  }
+  
+  .createDiv button {
+    margin-left: auto;
+    padding: .8rem;
+    font-size: 1rem;
+    background-color: #EFB506;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }

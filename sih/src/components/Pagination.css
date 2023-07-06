@@ -1,0 +1,41 @@
+.pagination{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    align-items:Center;
+    /* margin-bottom:5rem; */
+    font-size:1.2rem;
+    /* fix-width:fit-content; */
+    gap:10px;
+}
+.page-num{
+    padding:8px 15px;
+    cursor: pointer;
+    border-radius:3px;;
+
+    font-weight:400;
+    border:1px solid black;
+    
+}
+.page-num:hover{
+    background: linear-gradient(276.31deg, #EFB506 -25.96%, rgba(255, 193, 7, 0.15) 180.24%);
+    color:#fff;
+}
+
+.active{
+    padding:8px 0px;
+    background: linear-gradient(276.31deg, #EFB506 -25.96%, rgba(255, 193, 7, 0.15) 180.24%);
+    
+}
+
+
+
+
+@keyframes slideright {
+
+  0% {
+      transform: translateX(-100%);
+  }
+
+}
+
